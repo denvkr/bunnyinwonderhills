@@ -7,7 +7,7 @@
     "revision": 0
   },
   "properties": {
-    "adaptGameResolutionAtRuntime": true,
+    "adaptGameResolutionAtRuntime": false,
     "folderProject": false,
     "orientation": "landscape",
     "packageName": "com.cnabstudio.bunnyinwonderhill",
@@ -18,9 +18,9 @@
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.2",
-    "name": "Project",
+    "name": "Bunny in WonderHills",
     "description": "Just go through dangerous hills with 3 scenes, filled spiders,slimes and final boss",
-    "author": "cnabstudio.ru",
+    "author": "cnabstudio.ru,denvkr",
     "windowWidth": 800,
     "windowHeight": 600,
     "latestCompilationDirectory": "E:\\OpenServer54\\domains\\cnabstudio.local\\public_html\\binwh",
@@ -48,7 +48,10 @@
       "ENYpALGzdxdAhxdZjLqvUlRcSDr2"
     ],
     "categories": [],
-    "playableDevices": [],
+    "playableDevices": [
+      "keyboard",
+      "mobile"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -1958,6 +1961,186 @@
         "kind": "audio",
         "metadata": "",
         "name": "fall.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Floating Mirage.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Floating Mirage.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var15.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var15.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var6.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var6.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var10.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var10.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var16.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var16.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "csene1.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "csene1.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "Evergreen.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Evergreen.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var11.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var11.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var14.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var14.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var5.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var5.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var12.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var12.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "audio.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audio.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var9.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var9.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var7.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var7.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var8.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var8.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "2348536_2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "2348536_2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "var13.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "var13.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
@@ -5279,7 +5462,7 @@
               },
               "parameters": [
                 "",
-                "Floating Mirage 31-10-2021 01-05.wav",
+                "Floating Mirage.mp3",
                 "",
                 "90",
                 "1"
@@ -5870,6 +6053,18 @@
                 "+",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "var15.mp3",
+                "",
+                "100",
+                "1"
+              ]
             }
           ]
         },
@@ -6007,7 +6202,7 @@
               },
               "parameters": [
                 "",
-                "var2.wav",
+                "var2.mp3",
                 "",
                 "90",
                 "2"
@@ -7620,7 +7815,7 @@
               },
               "parameters": [
                 "",
-                "csene1.wav",
+                "csene1.mp3",
                 "",
                 "90",
                 "1"
@@ -8372,7 +8567,7 @@
               },
               "parameters": [
                 "",
-                "var16.wav",
+                "var16.mp3",
                 "no",
                 "100",
                 "1"
@@ -8445,7 +8640,7 @@
               },
               "parameters": [
                 "",
-                "var10.wav",
+                "var10.mp3",
                 "",
                 "90",
                 "1"
@@ -8571,7 +8766,7 @@
               },
               "parameters": [
                 "",
-                "jump.mp3",
+                "var5.mp3",
                 "",
                 "90",
                 "1"
@@ -8622,7 +8817,7 @@
               },
               "parameters": [
                 "",
-                "var6.wav",
+                "var6.mp3",
                 "",
                 "90",
                 "1"
@@ -10462,7 +10657,7 @@
               },
               "parameters": [
                 "",
-                "Evergreen 31-10-2021 12-20.wav",
+                "Evergreen.mp3",
                 "",
                 "90",
                 "1"
@@ -11430,7 +11625,7 @@
               },
               "parameters": [
                 "",
-                "var10.wav",
+                "var10.mp3",
                 "",
                 "90",
                 "1"
@@ -11550,7 +11745,7 @@
               },
               "parameters": [
                 "",
-                "var11.wav",
+                "var11.mp3",
                 "",
                 "90",
                 "1"
@@ -11650,7 +11845,7 @@
               },
               "parameters": [
                 "",
-                "var14.wav",
+                "var14.mp3",
                 "",
                 "90",
                 ""
@@ -11737,7 +11932,7 @@
               },
               "parameters": [
                 "",
-                "var14.wav",
+                "var14.mp3",
                 "",
                 "90",
                 ""
@@ -11870,7 +12065,7 @@
               },
               "parameters": [
                 "",
-                "var16.wav",
+                "var16.mp3",
                 "",
                 "90",
                 "1"
@@ -12003,7 +12198,7 @@
               },
               "parameters": [
                 "",
-                "var16.wav",
+                "var16.mp3",
                 "",
                 "90",
                 "1"
@@ -12261,7 +12456,7 @@
               },
               "parameters": [
                 "",
-                "var16.wav",
+                "var16.mp3",
                 "",
                 "90",
                 "1"
@@ -12376,7 +12571,7 @@
               },
               "parameters": [
                 "",
-                "var16.wav",
+                "var16.mp3",
                 "",
                 "90",
                 "1"
@@ -12423,7 +12618,7 @@
               },
               "parameters": [
                 "",
-                "var5.wav",
+                "var5.mp3",
                 "",
                 "90",
                 "1"
@@ -12457,7 +12652,7 @@
               },
               "parameters": [
                 "",
-                "var6.wav",
+                "var6.mp3",
                 "",
                 "90",
                 "1"
@@ -12492,7 +12687,7 @@
               },
               "parameters": [
                 "",
-                "var15.wav",
+                "var15.mp3",
                 "",
                 "100",
                 "1"
@@ -12525,7 +12720,7 @@
               },
               "parameters": [
                 "",
-                "var12.wav",
+                "var12.mp3",
                 "",
                 "100",
                 "1"
@@ -12914,7 +13109,7 @@
               },
               "parameters": [
                 "",
-                "var14.wav",
+                "var14.mp3",
                 "",
                 "90",
                 ""
@@ -13009,7 +13204,7 @@
               },
               "parameters": [
                 "",
-                "var14.wav",
+                "var14.mp3",
                 "",
                 "90",
                 ""
@@ -13083,7 +13278,7 @@
               },
               "parameters": [
                 "",
-                "var16.wav",
+                "var16.mp3",
                 "",
                 "90",
                 "1"
@@ -15463,7 +15658,7 @@
               },
               "parameters": [
                 "",
-                "audio.wav",
+                "audio.mp3",
                 "1",
                 "yes",
                 "30",
@@ -16178,7 +16373,7 @@
               },
               "parameters": [
                 "",
-                "var9.wav",
+                "var9.mp3",
                 "",
                 "100",
                 "1"
@@ -16442,7 +16637,7 @@
               },
               "parameters": [
                 "",
-                "var7.wav",
+                "var7.mp3",
                 "",
                 "100",
                 "1"
@@ -16754,7 +16949,7 @@
               },
               "parameters": [
                 "",
-                "var8.wav",
+                "var8.mp3",
                 "",
                 "80",
                 ""
@@ -16937,7 +17132,7 @@
               },
               "parameters": [
                 "",
-                "2348536_2.wav",
+                "2348536_2.mp3",
                 "",
                 "100",
                 ""
@@ -17060,7 +17255,7 @@
               },
               "parameters": [
                 "",
-                "var5.wav",
+                "var5.mp3",
                 "",
                 "90",
                 "1"
@@ -17111,7 +17306,7 @@
               },
               "parameters": [
                 "",
-                "var6.wav",
+                "var6.mp3",
                 "",
                 "90",
                 "1"
@@ -17150,7 +17345,7 @@
               },
               "parameters": [
                 "",
-                "var10.wav",
+                "var10.mp3",
                 "",
                 "90",
                 "1"
@@ -17213,7 +17408,7 @@
               },
               "parameters": [
                 "",
-                "var13.wav",
+                "var13.mp3",
                 "",
                 "90",
                 "1"
@@ -17298,7 +17493,7 @@
               },
               "parameters": [
                 "",
-                "var14.wav",
+                "var14.mp3",
                 "",
                 "90",
                 "1"
@@ -17393,7 +17588,7 @@
               },
               "parameters": [
                 "",
-                "var14.wav",
+                "var14.mp3",
                 "",
                 "90",
                 "1"
@@ -17484,7 +17679,7 @@
               },
               "parameters": [
                 "",
-                "var16.wav",
+                "var16.mp3",
                 "",
                 "90",
                 "1"
@@ -17581,7 +17776,7 @@
               },
               "parameters": [
                 "",
-                "var14.wav",
+                "var14.mp3",
                 "",
                 "90",
                 "1"
